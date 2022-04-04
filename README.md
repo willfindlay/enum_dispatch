@@ -1,3 +1,7 @@
+# THIS IS NOT THE ORIGINAL REPOSITORY - I AM NOT THE ORIGINAL AUTHOR
+
+This is a "fork" that I created so that I could work on the crate with GitHub. The real repository is hosted on GitLab here: https://gitlab.com/antonok/enum_dispatch.git. **Please do not star this repo. You should check out the original repository at the provided link instead.**
+
 # enum_dispatch
 
 [![crates.io](https://img.shields.io/crates/v/enum_dispatch.svg)](https://crates.io/crates/enum_dispatch)
